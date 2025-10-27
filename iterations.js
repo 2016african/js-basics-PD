@@ -1,20 +1,12 @@
-let str = "";
-
 for (let i = 21; i <= 30; i++) {
-  str += i;
+  console.log(i);
 }
 
-console.log(str);
-
-console.log('')
+console.log("");
 
 
-
-let n = 30;
-
-let str2 = "";
-while (n > 21) {
-  str2 -= n;
+let j = 29;
+while (j >= 21) {
+  console.log(j);
+  j--;
 }
-
-console.log(result);
